@@ -7,3 +7,4 @@ SOLUSI
   - memetakan blue print Kortas
 - mendesain infrastruktur organisasi
 - susun pasukan
+- susun naskah akademi
