@@ -4,4 +4,6 @@ SOLUSI
 - membangun jaringan eksternal
   - dalam negeri
   - luar negeri
-  - organisasi internasional
+  - memetakan blue print Kortas
+- mendesain infrastruktur organisasi
+- susun pasukan
