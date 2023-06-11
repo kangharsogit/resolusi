@@ -1,0 +1,7 @@
+SOLUSI
+- Kelola isu pentingnya Kortas
+- Membangun jaringan internal
+- membangun jaringan eksternal
+  - dalam negeri
+  - luar negeri
+  - organisasi internasional
